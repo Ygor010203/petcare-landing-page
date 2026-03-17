@@ -1,0 +1,1 @@
+console.timeLog("Landin page carregada!");

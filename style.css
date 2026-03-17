@@ -1,0 +1,47 @@
+body{
+    font-family: arial;
+    margin:0;
+    background-color: rgb(81, 204, 239);
+}
+header{
+    text-align: center;
+    padding: 60px;
+    background-color: aquamarine;
+    color: rgb(144, 33, 33);
+}
+.btn{
+    display: inline-block;
+    margin-top: 20px;
+    padding: 12px 24px;
+    background: #ff9800;
+    color: rgb(83, 9, 9);
+    text-decoration:none;
+    border-radius:5px
+}
+.servicos{
+    padding: 45px;
+    text-align: center;
+}
+.cards{
+    display:flex;
+    justify-content: center;
+    gap:20px;
+    flex-wrap: wrap;
+}
+
+.card{
+    background: rgb(194, 137, 214);
+    padding: 20px;
+    width: 220px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+.sobre{
+    padding: 40px;
+    text-align:center;
+    background: rgb(41, 142, 85);
+}
+.contato{
+    padding:40px;
+    text-align: center;
+}
